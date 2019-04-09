@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bear River Realty",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "realtym4",
       "title": "RealtyM4",
@@ -4698,7 +4698,7 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Bear River Realty",
