@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -5950,177 +5950,20 @@
           "_params": {}
         },
         {
-          "_params": {
-            "autoplay": true,
-            "animType": "kenburns",
-            "theme": "cloud",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/front-exterior-12-th-street-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/front%20exterior%20-%2012%20th%20street-960x534.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/front-exterior-12-th-street-85x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/exterior-2-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/exterior%202-1668x1292.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/exterior-2-85x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/exterior-3-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/exterior%203-1974x1161.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/exterior-3-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/living-room-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/living%20room-1512x2016.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/living-room-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fireplace-living-room-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/fireplace%20-%20living%20room-1512x2016.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/fireplace-living-room-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bedroom-1-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/bedroom%201-1512x2016.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/bedroom-1-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bedroom-2-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/bedroom%202-2000x1500.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/bedroom-2-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bedroom-3-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/bedroom%203-2000x1500.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/bedroom-3-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dining-room-kitchen-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/dining%20room%20-%20kitchen-2000x1500.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/dining-room-kitchen-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/main-floor-bathroom-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/main%20floor%20bathroom-1512x2016.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/main-floor-bathroom-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bathroom-2-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/bathroom%202-2000x1500.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/bathroom-2-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/basement-1-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/basement%201-2000x1500.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/basement-1-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/basement-2-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/basement%202-2000x1500.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/basement-2-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/basement-bathroom-1512x2016.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/basement%202-2000x1500.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/basement-2-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": true,
-            "responsive": "1",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "captionsEffect": "slide",
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": true,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1024",
-            "height": "576"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n[JS_CODE_0]<div class=\"powr-multi-slider\" id=\"1418624e_1554787042\"></div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-o"
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-z",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src='https://www.powr.io/powr.js?platform=html'></script>"
+          ]
         },
         {
           "alias": false,
