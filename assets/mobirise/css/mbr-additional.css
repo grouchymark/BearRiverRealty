@@ -4324,6 +4324,35 @@ body {
   font-size: 60px;
   color: #777;
 }
+#custom-html-11 {
+  /* Type valid CSS here */
+}
+#custom-html-11 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-11 p {
+  font-size: 60px;
+  color: #777;
+}
+.cid-rnsldLYRak {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rnsldLYRak .row {
+  border-top: 1px solid #f1f1f1;
+  padding-top: 2rem;
+}
+.cid-rnsldLYRak .mbr-text {
+  line-height: 1.5;
+  color: #436ce9;
+}
+.cid-rnsldLYRak .mbr-section-title {
+  text-align: left;
+  color: #656565;
+}
 .cid-rjemkFP9Zt .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -5992,10 +6021,10 @@ body {
   padding: .75rem 1.25rem 1.25rem 1.25rem;
 }
 .cid-rmKfydGFYl .mbr-author-desc {
-  color: #9e9e9e;
+  color: #436ce9;
 }
 .cid-rmKfydGFYl .card-block P {
-  color: #9e9e9e;
+  color: #436ce9;
 }
 .cid-rmKfydGFYl .mbr-author-name {
   color: #506ab9;
